@@ -1,0 +1,5 @@
+name: SavUtil
+main: me.savant.main.SavUtil
+version: "1.0"
+description: "Savant's Utilities"
+author: _Savant
